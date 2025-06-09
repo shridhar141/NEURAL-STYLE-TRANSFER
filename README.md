@@ -46,6 +46,11 @@ This neural style transfer code uses a deep learning approach to blend the conte
 
 The process produces a new image that retains the structure and details of the content image but is rendered in the style of the chosen artwork. This technique enables creative applications in digital art, photo editing, and media production, offering a powerful tool to generate visually striking stylized images.
 
+## OUTPUT
+
+![Image](https://github.com/user-attachments/assets/1223be14-fd9d-4bc7-a3d4-9d1249664273)
+
+![Image](https://github.com/user-attachments/assets/86d13532-6683-4b80-848e-3c13375d4423)
 
 
 
